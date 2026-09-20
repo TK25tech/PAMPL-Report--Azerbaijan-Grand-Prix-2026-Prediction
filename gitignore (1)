@@ -1,0 +1,23 @@
+# Files generated when the script runs (figures, tables, saved models)
+outputs/
+
+# FastF1 data cache (created automatically, can get large)
+fastf1_cache/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Excel temporary lock files (created while a workbook is open)
+~$*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
